@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MimiValsi
 - 👀 I’m interested in science and coding
-- 🌱 I’m currently learning C and RoR
+- 🌱 I’m currently learning HTML, CSS and specially Go
 - 📫 How to reach me ...
 
 <!---
