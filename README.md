@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MimiValsi
-- 👀 I’m interested in science and coding
+- 👀 I’m interested in science, CS
 - 🌱 I’m currently learning HTML, CSS, JS and specially Go
 - 📫 How to reach me miguel@dasilvaf.net
 
