@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MimiValsi
 - 👀 I’m interested in science and coding
 - 🌱 I’m currently learning HTML, CSS, JS and specially Go
-- 📫 How to reach me ...
+- 📫 How to reach me miguel@dasilvaf.net
 
 <!---
 MimiValsi/MimiValsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
