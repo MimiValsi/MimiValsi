@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MimiValsi
 - 👀 I’m interested in science, CS
-- 🌱 I’m currently learning HTML, CSS, JS and specially Go
+- 🌱 I’m currently learning Golang and SQL (PostgreSQL, SQLite etc)
 - 📫 How to reach me miguel@dasilvaf.net
 
 <!---
